@@ -1,0 +1,11 @@
+{
+    "name": "BouquetBuilder",
+    "alias": "bouquetbuilder",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BouquetBuilder\\Providers\\BouquetBuilderServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "CustomerTracker",
+    "alias": "customertracker",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CustomerTracker\\Providers\\CustomerTrackerServiceProvider"
+    ],
+    "files": []
+}
